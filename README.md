@@ -16,6 +16,7 @@
 # Coliving places
 + [B-Hive](b-hiveliving.com)
 + [La Casa](lacasa.io) Paris, France
++ [The Babel Community](thebabelcommunity.com/) Marseille, France
 + [Colivinghub](coliving.eu) Several spaces, all over Europe
 + [Nine](ninecoliving.com) Tenerife, Spain
 + [Kindred Quarters](kindredquarters.com) Los Angeles, San Diego, USA
